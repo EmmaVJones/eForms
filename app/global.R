@@ -9,6 +9,7 @@ library(RJSONIO)
 library(stringr)
 library(writexl)
 library(zip)
+library(rmarkdown)
 
 #####################################   UPDATE EACH NEW TOOL REBUILD #############################################
 assessmentCycle <- '2018-2019'
