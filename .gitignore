@@ -40,6 +40,7 @@ data/
 app.zip
 app.deq
 *.hmtl
+*.deq
 
 Rportable_Eforms/
 Rportable_Eforms.zip
